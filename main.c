@@ -1,3 +1,10 @@
+/*  
+Project: Major 1
+Names: Quan Nguyen, Oscar Trujillo, Jaylin Nwigwe, Cade Powell
+Course: CSCE 3600, Section 001
+Date: 22 June, 2025
+Description: Performs bitwise operations based on user choice
+*/
 #include "major1.h"
 
 int main() {
